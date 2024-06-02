@@ -1,4 +1,9 @@
 #include<unistd.h>
+/**
+ * main - Entry point
+ *
+ * Return: 1 for success
+ */
 
 int main(void)
 {
